@@ -1,5 +1,5 @@
 ![Tecnl](https://lh3.googleusercontent.com/proxy/oHJqCIc-vjFAlQoxvEtjbrTNvi1d5W5aCWEMWigUPpn6Bpzd-5L-Mv-5l4qOfDBF7CkhJICR33altXhu6r9x_841m8sndaTswquYWXzwxHiDXW7tOvdegnmPmXh1ku_hPC2sy0ddcyurScSeGKjlCw)
-#*Bienvenido al repositorio*
+# *Bienvenido al repositorio*
 **Alumno:** Jesus Daniel Esquivel Ortega
 **Numero de control:** 19100176
 #   
