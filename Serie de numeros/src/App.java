@@ -13,7 +13,7 @@ public class App {
             _intSuma=_intX+_intY;
             System.out.println(_intSuma);
             _intX=_intY;
-            _intX=_intSuma;
+            _intY=_intSuma;
         }
     }
 }
