@@ -1,4 +1,4 @@
-![Oh no! han cambiado la ruta de la imagen de nuevo. Error 404](https://lh3.googleusercontent.com/proxy/LYuhVINO2AIHNf0l_K6yH7X2SxEfsSO5cU7hnoiULLKG_iMEsNRoPxcYAxmHTWbVvGxt4zGFw4-rU1F3z7Hg9gzCvpCMaKYFsTT0WLLWChApl-_Ly60bN67sKVpTiQ)
+![Oh no! han cambiado la ruta de la imagen de nuevo. Error 404](https://nlaredotecnm-my.sharepoint.com/personal/l19100176_nlaredo_tecnm_mx/Documents/logo%20tec.jpg)
 
 
 
