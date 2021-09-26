@@ -1,6 +1,4 @@
-![Oh no! han cambiado la ruta de la imagen de nuevo. Error 404](https://nlaredotecnm-my.sharepoint.com/personal/l19100176_nlaredo_tecnm_mx/Documents/logo%20tec.jpg)
-
-
+![Oh no! han cambiado la ruta de la imagen de nuevo. Error 404](https://raw.githubusercontent.com/dan260gk/EsquivelOr/main/logo%20tec.jpg)
 
 # *Bienvenido al repositorio*
 **Alumno:** Jesus Daniel Esquivel Ortega
