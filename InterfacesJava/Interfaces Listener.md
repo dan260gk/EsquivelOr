@@ -116,7 +116,8 @@ void windowLostFocus(WindowEvent we)
 Esta interfaz define siete métodos. 
 * Los métodos **windowActivated()** y **windowDeactivated()** se invocan cuando se activa o desactiva una ventana, respectivamente. 
 * Si una ventana está iconificada, se llama al método **windowIconified()**. 
-* Cuando se desiconifica una ventana, se llama al método **windowDeiconified()**. Cuando se abre o se cierra una ventana, se llama a los métodos **windowOpened()** o **windowClosed()**, respectivamente. 
+* Cuando se desiconifica una ventana, se llama al método **windowDeiconified()**. 
+* Cuando se abre o se cierra una ventana, se llama a los métodos **windowOpened()** o **windowClosed()**, respectivamente. 
 * El método **windowClosing()** se llama cuando se cierra una ventana.
 
 Las codificaciones de los metodos son las siguientes:
