@@ -1,15 +1,15 @@
 # Java Collection Framework (marco de colecciones de java)
 
 ## ¿Qué es una colección en Java?
-Una colección representa una sola unidad de objetos, es decir, un grupo.
+Una colección representa una sola unidad de objetos, es decir, un grupo (por ejemplo un Vector).
 
 ## ¿Qué es un framework en Java?
 * Proporciona arquitectura prefabricada.
 * Representa un conjunto de clases e interfaces.
 * Es opcional.
 
-## ¿Qué es el Collection Framework?
-El Collection Framework es una arquitectura unificada para representar y manipular colecciones, lo que permite que las colecciones se manipulen independientemente de los detalles de implementación. 
+## ¿Qué es un Collection Framework?
+Un Collection Framework es una arquitectura unificada para representar y manipular colecciones, lo que permite que las colecciones se manipulen independientemente de los detalles de implementación. 
 Proporciona muchas interfaces (Set, List, Queue, Deque) y clases (ArrayList, Vector, LinkedList, PriorityQueue, HashSet, LinkedHashSet, TreeSet).
 
 Las principales ventajas de un marco de colecciones son que:
